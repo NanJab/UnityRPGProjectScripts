@@ -1,7 +1,7 @@
 # 🏰 RPG Adventure - Unity 포트폴리오 프로젝트  
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=메인+게임+스크린샷" width="70%">  
+  <img src="스크린샷 2025-03-26 190535.png" width="70%">  
   *(실제 게임 플레이 이미지로 교체해주세요)*
 </div>
 
