@@ -39,8 +39,7 @@
 
 ### 게임 스크린샷  
 <div align="center">
-  <img src="https://via.placeholder.com/400x200?text=인벤토리+UI" width="45%">
-  <img src="https://via.placeholder.com/400x200?text=전투+장면" width="45%">
+  <img src="스크린샷 2025-03-26 190555.png" width="45%">
 </div>
 
 ### 플레이 영상  
